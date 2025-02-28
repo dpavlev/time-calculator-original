@@ -1,0 +1,12 @@
+C:\Users\BlackPikachu57\source\repos\Time_Calculator\bin\Debug\Time_Calculator.exe.config
+C:\Users\BlackPikachu57\source\repos\Time_Calculator\bin\Debug\Time_Calculator.exe.manifest
+C:\Users\BlackPikachu57\source\repos\Time_Calculator\bin\Debug\Time_Calculator.application
+C:\Users\BlackPikachu57\source\repos\Time_Calculator\bin\Debug\Time_Calculator.exe
+C:\Users\BlackPikachu57\source\repos\Time_Calculator\bin\Debug\Time_Calculator.pdb
+C:\Users\BlackPikachu57\source\repos\Time_Calculator\obj\Debug\Time_Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\BlackPikachu57\source\repos\Time_Calculator\obj\Debug\Time_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\BlackPikachu57\source\repos\Time_Calculator\obj\Debug\Time_Calculator.exe.manifest
+C:\Users\BlackPikachu57\source\repos\Time_Calculator\obj\Debug\Time_Calculator.application
+C:\Users\BlackPikachu57\source\repos\Time_Calculator\obj\Debug\Time_Calculator.exe
+C:\Users\BlackPikachu57\source\repos\Time_Calculator\obj\Debug\Time_Calculator.pdb
+C:\Users\BlackPikachu57\source\repos\Time_Calculator\obj\Debug\Time_Calculator.csproj.AssemblyReference.cache
